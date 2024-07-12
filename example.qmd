@@ -1,0 +1,11 @@
+---
+title: "Docx-toc Example"
+filters:
+  - docx-toc
+---
+
+## Heading
+
+This filter adds formatting to heading text.
+
+
