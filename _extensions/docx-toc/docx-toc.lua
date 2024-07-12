@@ -1,6 +1,6 @@
 -- Using identifier instead of classes as there should only be one instance
 --[[
-::: {#toc}
+::: {#docxtoc}
 :::
 -- ]]
 local toc_title = "Table of Contents"
